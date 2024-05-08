@@ -1,0 +1,111 @@
+
+body {
+  background: url(nature.jpg);
+  background-size: 100%;
+  background-color: blur(4px);
+  font-family: Arial, sans-serif;
+  color:darkblue;
+  
+}
+  h1 {
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-size:  30px;
+  }
+  image {
+    height: 200px;
+    width: 400px;
+    border-radius: 10%;
+  }
+  
+  form {
+    max-width: 200px;
+    margin: auto;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  input[type="checkbox"] {
+    display: inline;
+    margin-right: 5px;
+  }
+  
+  select {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    mask-type: alpha;
+  }
+  * {
+    font-size: 20px;
+    text-align: center;
+  }
+a {
+  font-size: 30px;
+  color: rgb(247, 0, 255);
+}
+body {
+ background: url(nature.jpg);
+ background-size: 100%;
+ background-color: blur(4px);
+ font-family: Arial, sans-serif;
+ color:darkblue;
+ 
+}
+ h1 {
+   text-align: center;
+   color: rgb(255, 0, 0);
+   font-size:  30px;
+ }
+ image {
+   height: 200px;
+   width: 400px;
+   border-radius: 10%;
+ }
+ 
+ form {
+   max-width: 200px;
+   margin: auto;
+ }
+
+ label {
+   display: block;
+   margin-bottom: 10px;
+ }
+ 
+ input[type="text"],
+ input[type="password"] {
+   width: 100%;
+   padding: 5px;
+   margin-bottom: 10px;
+ }
+ 
+ input[type="checkbox"] {
+   display: inline;
+   margin-right: 5px;
+ }
+ 
+ select {
+   width: 100%;
+   padding: 5px;
+   margin-bottom: 10px;
+   mask-type: alpha;
+ }
+ * {
+   font-size: 20px;
+   text-align: center;
+ }
+a {
+ font-size: 30px;
+ color: rgb(247, 0, 255);
+}
